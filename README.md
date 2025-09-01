@@ -2,10 +2,8 @@
 
 <div align="center">
 
-<ul style="list-style-type: none;">
-  <li>🎓 <strong>CS @ University of Toronto</strong></li>
-  <li>💻 Currently building <strong><a href="#">UofTMarket</a></strong> and <strong><a href="#">Fairloft</a></strong></li>
-  <li>🚀 Passionate about <strong>Machine Learning</strong> and <strong>Distributed Systems</strong></li>
-</ul>
+<p>🎓 <strong>CS @ University of Toronto</strong></p>
+<p>💻 Currently building <strong><a href="#">UofTMarket</a></strong> and <strong><a href="#">Fairloft</a></strong></p>
+<p>🚀 Passionate about <strong>Machine Learning</strong> and <strong>Distributed Systems</strong></p>
 
 </div>
