@@ -1,7 +1,9 @@
-public class Raymond {
-    private final String name = "Raymond Chan";
-    private final String school = "University of Toronto";
-    private final String role = "CS Student (2nd Year)";
-    private final String[] building = { "UofTMarket", "Fairloft" };
-    private final String[] passions = { "Distributed Systems", "DevOps" };
-}
+<h1 align="center">Hello, I’m Raymond!</h1>
+
+<div align="center">
+
+<p> <strong>CS @ University of Toronto</strong></p>
+<p>Currently building <strong><a href="https://uoftmarket.com">UofTMarket</a></strong> and <strong><a href="https://fairloftgolf.com/">Fairloft</a></strong></p>
+<p>Passionate about <strong>Distributed Systems</strong> and <strong>Devops</strong></p>
+
+</div>
