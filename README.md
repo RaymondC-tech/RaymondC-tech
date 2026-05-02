@@ -1,2 +1,2 @@
 # raymond chan
-# distributed systems, applied ai, systems programming
+<p><strong>distributed systems</strong>, <strong>applied ai</strong>, <strong>systems programming</strong></p>
